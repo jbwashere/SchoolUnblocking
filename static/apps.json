@@ -30,6 +30,11 @@
         "location": "https://www.instagram.com"
     },
     {
+        "title": "1movieshd",
+        "img": "./img/apps/1m.png",
+        "location": "https://1movieshd.com"
+    },
+    {
         "title": "zoro.to",
         "img": "./img/apps/oroz.png",
         "location": "https://zoro.to"
