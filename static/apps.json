@@ -20,6 +20,16 @@
         "location": "https://twitter.com/explore"
     },
     {
+        "title": "Instagram",
+        "img": "./img/apps/gramsta.png",
+        "location": "https://www.instagram.com"
+    },
+    {
+        "title": "zoro.to",
+        "img": "./img/apps/oroz.png",
+        "location": "https://zoro.to"
+    },
+    {
         "title": "Reddit",
         "img": "./img/apps/rt.png",
         "location": "https://reddit.com"
@@ -32,7 +42,7 @@
     {
         "title": "Discord",
         "img": "./img/apps/dd.jpg",
-        "location": "https://discord.com/app"
+        "location": "https://discord.com"
     },
     {
         "title": "CoolMathGames",
