@@ -35,6 +35,21 @@
         "location": "https://reddit.com"
     },
     {
+        "title": "Netflix",
+        "img": "./img/apps/nf.jpg",
+        "location": "https://www.netflix.com/browse"
+    },
+    {
+        "title": "Hulu",
+        "img": "./img/apps/uluh.jpg",
+        "location": "https://www.hulu.com/welcome"
+    },
+    {
+        "title": "Peacock",
+        "img": "./img/apps/pk.jpg",
+        "location": "https://www.peacocktv.com/"
+    },
+    {
         "title": "Twitch",
         "img": "./img/apps/tich.jpg",
         "location": "https://twitch.tv"
