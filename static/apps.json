@@ -15,6 +15,11 @@
         "location": "https://open.spotify.com"
     },
     {
+        "title": "Tiktok",
+        "img": "./img/apps/tk.png",
+        "location": "https://www.tiktok.com/"
+    },
+    {
         "title": "Twitter",
         "img": "./img/apps/twt.png",
         "location": "https://twitter.com/explore"
