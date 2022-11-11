@@ -75,6 +75,11 @@
         "location": "https://www.coolmathgames.com"
     },
     {
+        "title": "VRChat",
+        "img": "./img/apps/rv.png",
+        "location": "https://vrchat.com/home/login"
+    },
+    {
         "title": "Geforce Now",
         "img": "./img/apps/gfnow.png",
         "location": "https://play.geforcenow.com"
