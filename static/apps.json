@@ -50,6 +50,11 @@
         "location": "https://www.netflix.com/browse"
     },
     {
+        "title": "Disney+",
+        "img": "./img/apps/rizzny.png",
+        "location": "https://www.disneyplus.com/login"
+    },
+    {
         "title": "Hulu",
         "img": "./img/apps/uluh.jpg",
         "location": "https://www.hulu.com/welcome"
@@ -78,6 +83,11 @@
         "title": "VRChat",
         "img": "./img/apps/rv.png",
         "location": "https://vrchat.com/home/login"
+    },
+    {
+        "title": "Gumroad",
+        "img": "./img/apps/roadofgum.png",
+        "location": "https://gumroad.com"
     },
     {
         "title": "Geforce Now",
