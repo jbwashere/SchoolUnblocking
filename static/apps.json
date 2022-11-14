@@ -25,6 +25,11 @@
         "location": "https://twitter.com/explore"
     },
     {
+        "title": "Facebook",
+        "img": "./img/apps/fb.png",
+        "location": "https://www.facebook.com"
+    },
+    {
         "title": "Instagram",
         "img": "./img/apps/gramsta.jpg",
         "location": "https://www.instagram.com"
