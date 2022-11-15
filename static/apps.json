@@ -35,6 +35,11 @@
         "location": "https://www.instagram.com"
     },
     {
+        "title": "Snapchat",
+        "img": "./img/apps/sc.png",
+        "location": "https://accounts.snapchat.com"
+    },
+    {
         "title": "1movieshd",
         "img": "./img/apps/1m.png",
         "location": "https://1movieshd.com"
