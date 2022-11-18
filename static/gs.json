@@ -230,6 +230,12 @@
     "category": "web"
   },
   {
+    "img": "./img/gs/vex6.jpg",
+    "location": "./source/vex6/",
+    "title": "Vex 6",
+    "category": "web"
+  },
+  {
     "img": "./img/gs/warfare1917.png",
     "location": "./source/swfs/#warfare1917",
     "title": "Warfare 1917"
