@@ -85,6 +85,12 @@
     "title": "Astray"
   },
   {
+    "img": "./img/gs/unnamed.png",
+    "location": "https://drift-hunters.co",
+    "title": "Drift Hunters",
+    "featured": true
+  },
+  {
     "img": "./img/gs/chroma.jpg",
     "location": "./source/chroma/",
     "title": "The Chroma Incident",
